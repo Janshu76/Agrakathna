@@ -1,2 +1,2 @@
-# Agrakathna
+# KanakVinimya
 Personal Project 2
